@@ -62,7 +62,7 @@
 
 ---
 
-[⬆️ Voltar ao topo](#-readme---escolha-o-idioma--choose-language)  
+[⬆️ Voltar ao topo / Return to the top ⬆️](#-readme---escolha-o-idioma--choose-language)  
 
 [![](https://visitcount.itsvg.in/api?id=Luz-Coelho&icon=0&color=0)](https://visitcount.itsvg.in)  
 *Obrigada por visitar meu perfil! 💖 | Thanks for visiting my profile! 💖*  
