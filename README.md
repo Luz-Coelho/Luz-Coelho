@@ -55,8 +55,11 @@
 <br>
 
 ---
-##  🛠️ 🇧🇷 Outras Ferramentas | 🇺🇸 Other Tools 🛠️  
-
+##  📑 🇧🇷 Projetos em Andamento | 🇺🇸 Work In Progress 📑 
+- **PhysApp:**
+  - > 🇧🇷 Aplicativo mobile para realizar cálculos de física.
+  - > 🇺🇸 A mobile app to solve Physics calculus.
+  
 
 ---
 
