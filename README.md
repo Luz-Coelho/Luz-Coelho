@@ -1,6 +1,6 @@
 ---
 # 🌍 README - Escolha o idioma / Choose Language  
-[🇧🇷 Português](#português) | [🇺🇸 English](#english)  
+[🇧🇷 Português](#-português) | [🇺🇸 English](#-english)  
 
 ---
 
