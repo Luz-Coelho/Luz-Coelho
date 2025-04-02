@@ -11,7 +11,7 @@
 ### 😄 Pronomes: Ela/Dela  
 ### 📧 Contato: luzsiolaricoelho@outlook.com  
 
-👋 Olá! Meu nome é **Luz Siolari de Lima Coelho**, sou uma garota trans de 17 anos com TEA, TOC e TDAH. Atualmente, estou cursando o último ano do Ensino Médio Integrado com **Desenvolvimento de Sistemas** na **Etec de Peruíbe**. Além disso, estou no último módulo do curso de inglês na **Wizard**.  
+👋 Olá! Meu nome é **Luz Siolari de Lima Coelho**, sou uma garota trans de 17 anos. Atualmente, estou cursando o último ano do Ensino Médio Integrado com **Desenvolvimento de Sistemas** na **Etec de Peruíbe**. Além disso, estou no último módulo do curso de inglês na **Wizard**.  
 
 💻 Sou apaixonada por tecnologia e estou sempre buscando aprender e me desenvolver na área de desenvolvimento de sistemas, tendo como maior paixão o **desenvolvimento web**.  
 
@@ -26,7 +26,7 @@
 ### 😄 Pronouns: She/Her  
 ### 📧 Contact: luzsiolaricoelho@outlook.com  
 
-👋 Hi! My name is **Luz Siolari de Lima Coelho**, I'm a 17-year-old trans girl with ASD, OCD, and ADHD. Currently, I'm in the final year of High School Integrated with **Systems Development** at **Etec de Peruíbe**. Additionally, I'm in the last module of the English course at **Wizard**.  
+👋 Hi! My name is **Luz Siolari de Lima Coelho**, I'm a 17-year-old trans girl. Currently, I'm in the final year of High School Integrated with **Systems Development** at **Etec de Peruíbe**. Additionally, I'm in the last module of the English course at **Wizard**.  
 
 💻 I'm passionate about technology and always seeking to learn and grow in the field of systems development, with a particular love for **web development**.  
 
