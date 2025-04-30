@@ -48,7 +48,7 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Monaca](https://img.shields.io/badge/Monaca-%23007ACC.svg?style=for-the-badge&logo=ionic&logoColor=white) 
 
 ### 🌱 🇧🇷 Estudando | 🇺🇸 Currently Learning 🌱  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 
 ### 🛠️ 🇧🇷 Outras Ferramentas | 🇺🇸 Other Tools 🛠️  
@@ -56,11 +56,11 @@
 <br>
 
 ---
-##  📑 🇧🇷 Projetos em Andamento | 🇺🇸 Work In Progress 📑 
+##  📑 🇧🇷 Meus Projetos | 🇺🇸 My Projects 📑 
 - **PhysApp:**
-  - > 🇧🇷 Aplicativo mobile para realizar cálculos de física.
-  - > 🇺🇸 A mobile app to solve Physics calculus.
-  
+  - > WIP
+- **Portal Wakai:**
+  - > https://github.com/PortalWakai
 
 ---
 
