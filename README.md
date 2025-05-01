@@ -63,22 +63,14 @@
   <img src="https://img.shields.io/badge/Monaca-%23007ACC.svg?style=for-the-badge&logo=ionic&logoColor=white" alt="Monaca">
 </div>
 
-### 🔧 Development Tools  
+### 🔧 Other Tools 
 <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
-</div>
-
-### 🎨 Design Tools  
-<div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop">
-</div>
-
-### 📊 Organization  
-<div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
 </div>
