@@ -1,5 +1,6 @@
 ---
-{#top} # 🌍 README - Choose Language / Escolha o idioma 
+<a id="top"></a>
+# 🌍 README - Choose Language / Escolha o idioma  
 [🇧🇷 Português](#-português) • [🇺🇸 English](#-english)  
 
 ---
