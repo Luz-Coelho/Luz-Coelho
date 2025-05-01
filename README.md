@@ -1,78 +1,105 @@
 ---
-# 🌍 README - Escolha o idioma / Choose Language  
-[🇧🇷 Português](#-português) | [🇺🇸 English](#-english)  
+# 🌍 README - Choose Language / Escolha o idioma {#top}
+[🇧🇷 Português](#-português) • [🇺🇸 English](#-english)  
 
 ---
 
 ## 🇧🇷 Português  
 
-### 💫 Sobre Mim  
+### 👋 Sobre Mim  
+**✨ Luz Siolari de Lima Coelho**  
+- 🏳️‍⚧️ Pronomes: Ela/Dela  
+- 📧 Contato: luzsiolaricoelho@outlook.com  
+- 🎓 Estudante de Desenvolvimento de Sistemas (Etec Peruíbe)  
+- 🌎 Inglês avançado (Wizard)  
 
-### 😄 Pronomes: Ela/Dela  
-### 📧 Contato: luzsiolaricoelho@outlook.com  
+💻 Apaixonada por desenvolvimento web e tecnologia  
+🚀 Buscando constantemente novos desafios e aprendizados  
 
-👋 Olá! Meu nome é **Luz Siolari de Lima Coelho**, sou uma garota trans de 17 anos. Atualmente, estou cursando o último ano do Ensino Médio Integrado com **Desenvolvimento de Sistemas** na **Etec de Peruíbe**. Além disso, estou no último módulo do curso de inglês na **Wizard**.  
-
-💻 Sou apaixonada por tecnologia e estou sempre buscando aprender e me desenvolver na área de desenvolvimento de sistemas, tendo como maior paixão o **desenvolvimento web**.  
-
-🌟 Adoro desafios que me permitem explorar novas tecnologias e aprimorar minhas habilidades!  
-
-<br>
+---
 
 ## 🇺🇸 English  
 
-### 💫 About Me  
+### 👋 About Me  
+**✨ Luz Siolari de Lima Coelho**  
+- 🏳️‍⚧️ Pronouns: She/Her  
+- 📧 Contact: luzsiolaricoelho@outlook.com  
+- 🎓 Systems Development student (Etec Peruíbe)  
+- 🌎 Advanced English (Wizard)  
 
-### 😄 Pronouns: She/Her  
-### 📧 Contact: luzsiolaricoelho@outlook.com  
-
-👋 Hi! My name is **Luz Siolari de Lima Coelho**, I'm a 17-year-old trans girl. Currently, I'm in the final year of High School Integrated with **Systems Development** at **Etec de Peruíbe**. Additionally, I'm in the last module of the English course at **Wizard**.  
-
-💻 I'm passionate about technology and always seeking to learn and grow in the field of systems development, with a particular love for **web development**.  
-
-🌟 I enjoy challenges that allow me to explore new technologies and improve my skills!  
-
-<br>
+💻 Passionate about web development and technology  
+🚀 Constantly seeking new challenges and knowledge  
 
 ---
 
-## 💻 Tech Stack  
+## 🛠️ Tech Stack  
 
-### 🎨 Front-End:  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-%231E90FF.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CoffeeScript](https://img.shields.io/badge/CoffeeScript-%232F2625.svg?style=for-the-badge&logo=coffeescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%3338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🖥️ Frontend Development  
+<div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+</div>
 
-### ⚙️ Back-End:  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+### ⚙️ Backend Development  
+<div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</div>
 
-### 📱 🇧🇷 Desenvolvimento Mobile | 🇺🇸 Mobile Development 📱
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Monaca](https://img.shields.io/badge/Monaca-%23007ACC.svg?style=for-the-badge&logo=ionic&logoColor=white) 
+### 📱 Mobile Development  
+<div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo">
+  <img src="https://img.shields.io/badge/Monaca-%23007ACC.svg?style=for-the-badge&logo=ionic&logoColor=white" alt="Monaca">
+</div>
 
-### 🌱 🇧🇷 Estudando | 🇺🇸 Currently Learning 🌱  
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+### 🔧 Development Tools  
+<div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
+</div>
 
+### 🎨 Design Tools  
+<div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop">
+</div>
 
-### 🛠️ 🇧🇷 Outras Ferramentas | 🇺🇸 Other Tools 🛠️  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-<br>
+### 📊 Organization  
+<div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+</div>
 
 ---
-##  📑 🇧🇷 Meus Projetos | 🇺🇸 My Projects 📑 
-- **PhysApp:**
-  - > WIP
-- **Portal Wakai:**
-  - > https://github.com/PortalWakai
+
+## 🏆 Projects | Projetos  
+### PhysApp  
+> Mobile application in development | Aplicativo mobile em desenvolvimento  
+
+### Portal Wakai  
+> [github.com/PortalWakai](https://github.com/PortalWakai)  
 
 ---
 
 ## 📊 GitHub Stats  
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luz-Coelho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
-
-<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luz-Coelho&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-[⬆️ Voltar ao topo / Return to the top ⬆️](#-readme---escolha-o-idioma--choose-language)  
-
-[![](https://visitcount.itsvg.in/api?id=Luz-Coelho&icon=0&color=0)](https://visitcount.itsvg.in)  
-*Obrigada por visitar meu perfil! 💖 | Thanks for visiting my profile! 💖*  
+<p align="center">
+  [⬆️ <a href="#top">Back to top | Voltar ao topo</a> ⬆️  
+  <br>
+  🌟 <strong>Thanks for visiting! | Obrigada pela visita!</strong> 🌟
+</p>
