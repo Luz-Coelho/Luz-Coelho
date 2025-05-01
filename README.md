@@ -100,7 +100,7 @@
 ---
 
 <p align="center">
-  [⬆️ <a href="#top">Back to top | Voltar ao topo</a> ⬆️  
+  [⬆️ <a href="#top">Back to top | Voltar ao topo</a> ⬆️]
   <br>
   🌟 <strong>Thanks for visiting! | Obrigada pela visita!</strong> 🌟
 </p>
