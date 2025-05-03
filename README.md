@@ -1,100 +1,161 @@
 ---
 <a id="top"></a>
-# 🌍 README - Choose Language / Escolha o idioma  
-[🇧🇷 Português](#-português) • [🇺🇸 English](#-english)  
+<div align="center">
+  ![Banner](https://i.imgur.com/mFCt4fB.png)  
+</div>
 
 ---
 
-## 🇧🇷 Português  
-
-### 👋 Sobre Mim  
-**✨ Luz Siolari de Lima Coelho**  
-- 🏳️‍⚧️ Pronomes: Ela/Dela  
-- 📧 Contato: luzsiolaricoelho@outlook.com  
-- 🎓 Estudante de Desenvolvimento de Sistemas (Etec Peruíbe)  
-- 🌎 Inglês avançado (Wizard)  
-
-💻 Apaixonada por desenvolvimento web e tecnologia  
-🚀 Buscando constantemente novos desafios e aprendizados  
-
----
-
-## 🇺🇸 English  
-
-### 👋 About Me  
-**✨ Luz Siolari de Lima Coelho**  
-- 🏳️‍⚧️ Pronouns: She/Her  
-- 📧 Contact: luzsiolaricoelho@outlook.com  
-- 🎓 Systems Development student (Etec Peruíbe)  
-- 🌎 Advanced English (Wizard)  
-
-💻 Passionate about web development and technology  
-🚀 Constantly seeking new challenges and knowledge  
+<div align="center">
+  <table style="margin: 0 auto;">
+    <tr>
+      <td valign="top" width="50%">
+        <h2>🇧🇷 Português</h2>
+        <h3 align="left">👋 Sobre Mim</h3>
+        <p align="left"><strong>✨ Luz Siolari de Lima Coelho</strong></p>
+        <ul align="left">
+          <li><p align="left">🏳️‍⚧️ Pronomes: Ela/Dela</p></li>
+          <li><p align="left">📧 Contato: luzsiolaricoelho@outlook.com</p></li>
+          <li><p align="left">🎓 Estudante de Desenvolvimento de Sistemas (Etec Peruíbe)</p></li>
+          <li><p align="left">🌎 Inglês avançado (Wizard)</p></li>
+        </ul>
+        <p align="left">💻 Apaixonada por desenvolvimento web e tecnologia<br>
+        🚀 Buscando constantemente novos desafios e aprendizados</p>
+      </td>
+      <td valign="top" width="50%">
+        <h2>🇺🇸 English</h2>
+        <h3 align="left">👋 About Me</h3>
+        <p align="left"><strong>✨ Luz Siolari de Lima Coelho</strong></p>
+        <ul align="left">
+          <li><p align="left">🏳️‍⚧️ Pronouns: She/Her</p></li>
+          <li><p align="left">📧 Contact: luzsiolaricoelho@outlook.com</p></li>
+          <li><p align="left">🎓 Systems Development student (Etec Peruíbe)</p></li>
+          <li><p align="left">🌎 Advanced English (Wizard)</p></li>
+        </ul>
+        <p align="left">💻 Passionate about web development and technology<br>
+        🚀 Constantly seeking new challenges and knowledge</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 🖥️ Frontend Development  
-<div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-</div>
-
-### ⚙️ Backend Development  
-<div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white" alt="Xampp">
-</div>
-
-### 📱 Mobile Development  
-<div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native">
-  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo">
-  <img src="https://img.shields.io/badge/Monaca-%23007ACC.svg?style=for-the-badge&logo=ionic&logoColor=white" alt="Monaca">
-</div>
-
-### 🔧 Other Tools 
-<div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop">
-  <img src="https://img.shields.io/badge/Photopea-2EA3F2.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photopea">
-  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-</div>
+<table>
+  <!-- Frontend Row -->
+  <tr>
+    <td valign="top" width="25%"><h3>🖥️ Frontend</h3></td>
+    <td>
+      <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center;">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML5">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS3">
+        <img src="https://skillicons.dev/icons?i=sass" alt="SASS" title="SASS">
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript">
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" title="React">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" title="Tailwind CSS">
+        <img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite">
+      </div>
+    </td>
+  </tr>
+  
+  <!-- Backend Row -->
+  <tr>
+    <td valign="top"><h3>⚙️ Backend</h3></td>
+    <td>
+      <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center;">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js">
+        <img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#">
+        <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL">
+        <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white" height="45px" alt="XAMPP" title="XAMPP">
+      </div>
+    </td>
+  </tr>
+  
+  <!-- Mobile Row -->
+  <tr>
+    <td valign="top"><h3>📱 Mobile</h3></td>
+    <td>
+      <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center;">
+        <img src="https://custom-icon-badges.demolab.com/badge/React_Native-61DAFB?logo=react&logoColor=black" 
+               alt="React Native" 
+               title="React Native"
+               style="height: 30px;">
+          <!-- Expo -->
+          <img src="https://custom-icon-badges.demolab.com/badge/Expo-000020?logo=expo&logoColor=white" 
+               alt="Expo" 
+               title="Expo"
+               style="height: 30px;">
+          <!-- Monaca -->
+          <img src="https://custom-icon-badges.demolab.com/badge/Monaca-007ACC?logo=ionic&logoColor=white" 
+               alt="Monaca" 
+               title="Monaca"
+               style="height: 30px;">
+      </div>
+    </td>
+  </tr>
+  
+  <!-- Tools Row -->
+  <tr>
+    <td valign="top"><h3>🔧 Tools</h3></td>
+    <td>
+      <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center;">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,ps,notion" alt="Git" title="Git">
+        <br>
+        <img src="https://custom-icon-badges.demolab.com/badge/Canva-00C4CC?logo=canva&logoColor=white" 
+       width="94" 
+       alt="Canva" 
+       title="Canva"
+       style="height: 30px;">
+        <img src="https://custom-icon-badges.demolab.com/badge/Trello-026AA7?logo=trello&logoColor=white" 
+       width="94" 
+       alt="Trello" 
+       title="Trello"
+       style="height: 30px;">
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🏆 Projects | Projetos  
-### PhysApp  
-> Mobile application in development | Aplicativo mobile em desenvolvimento  
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; justify-content: center;">
+  <div style="border: 1px solid #444; border-radius: 10px; padding: 1rem; max-width: 400px;">
+    <h3>PhysApp</h3>
+    <p>📱 Mobile application in development</p>
+    <p>Aplicativo mobile em desenvolvimento</p>
+    <img src="https://i.imgur.com/placeholder.png" width="100%" alt="PhysApp Preview">
+  </div>
 
-### Portal Wakai  
-> [github.com/PortalWakai](https://github.com/PortalWakai)  
+  <div style="border: 1px solid #444; border-radius: 10px; padding: 1rem; max-width: 400px;">
+    <h3>Portal Wakai</h3>
+    <p>🌐 Community platform</p>
+    <p>Plataforma comunitária</p>
+    <a href="https://github.com/PortalWakai">
+      <img src="https://i.imgur.com/placeholder.png" width="100%" alt="Portal Wakai Preview">
+    </a>
+  </div>
+</div>
 
 ---
 
 ## 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luz-Coelho&layout=compact&theme=radical&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luz-Coelho&show_icons=true&theme=radical" height="170px" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luz-Coelho&layout=compact&theme=radical" height="170px" alt="Top Languages">
+</div>
 
 ---
 
-<p align="center">
-  [⬆️ <a href="#top">Back to top | Voltar ao topo</a> ⬆️]
-  <br>
-  🌟 <strong>Thanks for visiting! | Obrigada pela visita!</strong> 🌟
-</p>
+<div align="center">
+  <a href="#top">[ ⬆️ Back to Top | Voltar ao Topo ⬆️ ]</a>
+  <p>🌟 <strong>Thanks for visiting!</strong> | <strong>Obrigada pela visita!</strong> 🌟</p>
+</div>
+
+---
+
