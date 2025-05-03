@@ -1,7 +1,10 @@
 ---
 <a id="top"></a>
 <div align="center">
-  ![Banner](https://i.imgur.com/mFCt4fB.png)  
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgfxmaker.com%2Fwp-content%2Fuploads%2F2021%2F12%2F936-1.jpeg&f=1&nofb=1&ipt=a7cff55bd79d022b787cc7db3b5e3804f1849574930c46fc1387b3c55de7e664"
+    alt="graphic design is my passion."
+    height="300px"
+    width="100%">
 </div>
 
 ---
@@ -65,7 +68,7 @@
           <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white"
                 alt="XAMPP"
                 title="XAMPP"
-                height="45px">
+                height="30px">
         </div>
       </td>
     </tr>
@@ -130,14 +133,14 @@
       <!-- PhysApp Project -->
       <tr style="border-bottom: 1px solid #ddd;">
         <td style="padding: 12px; vertical-align: middle;">
-          <img src="https://i.imgur.com/placeholder.png" width="60" style="border-radius: 8px;" alt="PhysApp Logo">
+          <img src="https://i.imgur.com/Fh5ZIKG.png" width="60" style="border-radius: 8px;" alt="PhysApp Logo">
         </td>
         <td style="padding: 12px; vertical-align: middle;">
           <strong>PhysApp</strong>
         </td>
         <td style="padding: 12px; vertical-align: middle;">
-          <p align="left">📱 Mobile application in development</p>
-          <p align="left">Aplicativo mobile em desenvolvimento</p>
+          <p align="left">🇺🇸 Mobile application in development</p>
+          <p align="left">🇧🇷 Aplicativo mobile em desenvolvimento</p>
         </td>
         <td style="padding: 12px; vertical-align: middle;">
           <a href="#" style="text-decoration: none;">
@@ -148,14 +151,16 @@
       <!-- Portal Wakai Project -->
       <tr style="border-bottom: 1px solid #ddd;">
         <td style="padding: 12px; vertical-align: middle;">
-          <img src="https://i.imgur.com/placeholder.png" width="60" style="border-radius: 8px;" alt="Wakai Logo">
+          <img src="https://i.imgur.com/FHi9m5F.png" width="60" style="border-radius: 8px;" alt="Wakai Logo">
         </td>
         <td style="padding: 12px; vertical-align: middle;">
           <strong>Portal Wakai</strong>
         </td>
         <td style="padding: 12px; vertical-align: middle;">
-          <p align="left">🌐 Community platform</p>
-          <p align="left">Plataforma comunitária</p>
+          <p align="left">🇺🇸 Project developed within a three days time-period for the Hackathon 2025 of Etec Peruibe.
+            The theme was to develop a reading platform to make young readers engage into nacional and independent books.</p>
+          <p align="left">🇧🇷 Projeto desenvolvido no período de 3 dias para o Hackathon 2025 da Etec de Peruibe.
+            O tema era desenvolver uma plataforma de leitura para incentivar jovens leitores a lerem livros nacionais e independentes.</p>
         </td>
         <td style="padding: 12px; vertical-align: middle;">
           <a href="https://github.com/PortalWakai" style="text-decoration: none;">
