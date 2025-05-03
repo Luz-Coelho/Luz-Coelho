@@ -136,8 +136,8 @@
           <strong>PhysApp</strong>
         </td>
         <td style="padding: 12px; vertical-align: middle;">
-          <p>📱 Mobile application in development</p>
-          <p>Aplicativo mobile em desenvolvimento</p>
+          <p align="left">📱 Mobile application in development</p>
+          <p align="left">Aplicativo mobile em desenvolvimento</p>
         </td>
         <td style="padding: 12px; vertical-align: middle;">
           <a href="#" style="text-decoration: none;">
@@ -154,8 +154,8 @@
           <strong>Portal Wakai</strong>
         </td>
         <td style="padding: 12px; vertical-align: middle;">
-          <p>🌐 Community platform</p>
-          <p>Plataforma comunitária</p>
+          <p align="left">🌐 Community platform</p>
+          <p align="left">Plataforma comunitária</p>
         </td>
         <td style="padding: 12px; vertical-align: middle;">
           <a href="https://github.com/PortalWakai" style="text-decoration: none;">
