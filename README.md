@@ -62,7 +62,10 @@
       <td align="left">
         <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center;">
           <img src="https://skillicons.dev/icons?i=nodejs,cs,php,mysql&perline=6" alt="Tech Icons">
-          <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white" height="45px" alt="XAMPP" title="XAMPP">
+          <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white"
+                alt="XAMPP"
+                title="XAMPP"
+                height="45px">
         </div>
       </td>
     </tr>
@@ -74,17 +77,17 @@
           <img src="https://custom-icon-badges.demolab.com/badge/React_Native-61DAFB?logo=react&logoColor=black" 
                  alt="React Native" 
                  title="React Native"
-                 style="height: 30px;">
+                 height="30px">
             <!-- Expo -->
             <img src="https://custom-icon-badges.demolab.com/badge/Expo-000020?logo=expo&logoColor=white" 
                  alt="Expo" 
                  title="Expo"
-                 style="height: 30px;">
+                 height="30px">
             <!-- Monaca -->
             <img src="https://custom-icon-badges.demolab.com/badge/Monaca-007ACC?logo=ionic&logoColor=white" 
                  alt="Monaca" 
                  title="Monaca"
-                 style="height: 30px;">
+                 height="30px">
         </div>
       </td>
     </tr>
@@ -96,15 +99,13 @@
           <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,ps,notion&perline=6" alt="Tools">
           <br>
           <img src="https://custom-icon-badges.demolab.com/badge/Canva-00C4CC?logo=canva&logoColor=white" 
-         width="94" 
-         alt="Canva" 
-         title="Canva"
-         style="height: 30px;">
+                alt="Canva" 
+                title="Canva"
+                height="30px">
           <img src="https://custom-icon-badges.demolab.com/badge/Trello-026AA7?logo=trello&logoColor=white" 
-         width="94" 
-         alt="Trello" 
-         title="Trello"
-         style="height: 30px;">
+                alt="Trello" 
+                title="Trello"
+                height="30px">
         </div>
       </td>
     </tr>
@@ -115,54 +116,56 @@
 
 ## 🏆 Projects | Projetos
 
-<table style="width: 100%; border-collapse: collapse; margin: 1.5rem 0;">
-  <thead>
-    <tr style="background-color: #f3f3f3;">
-      <th style="padding: 12px; text-align: left; width: 80px;">Logo</th>
-      <th style="padding: 12px; text-align: left;">Project</th>
-      <th style="padding: 12px; text-align: left;">Description</th>
-      <th style="padding: 12px; text-align: left;">Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- PhysApp Project -->
-    <tr style="border-bottom: 1px solid #ddd;">
-      <td style="padding: 12px; vertical-align: middle;">
-        <img src="https://i.imgur.com/placeholder.png" width="60" style="border-radius: 8px;" alt="PhysApp Logo">
-      </td>
-      <td style="padding: 12px; vertical-align: middle;">
-        <strong>PhysApp</strong>
-      </td>
-      <td style="padding: 12px; vertical-align: middle;">
-        <p>📱 Mobile application in development</p>
-        <p>Aplicativo mobile em desenvolvimento</p>
-      </td>
-      <td style="padding: 12px; vertical-align: middle;">
-        <a href="#" style="text-decoration: none;">
-          <img src="https://img.shields.io/badge/View-007ACC?style=flat&logo=github&logoColor=white" alt="View Project">
-        </a>
-      </td>
-    </tr>
-    <!-- Portal Wakai Project -->
-    <tr style="border-bottom: 1px solid #ddd;">
-      <td style="padding: 12px; vertical-align: middle;">
-        <img src="https://i.imgur.com/placeholder.png" width="60" style="border-radius: 8px;" alt="Wakai Logo">
-      </td>
-      <td style="padding: 12px; vertical-align: middle;">
-        <strong>Portal Wakai</strong>
-      </td>
-      <td style="padding: 12px; vertical-align: middle;">
-        <p>🌐 Community platform</p>
-        <p>Plataforma comunitária</p>
-      </td>
-      <td style="padding: 12px; vertical-align: middle;">
-        <a href="https://github.com/PortalWakai" style="text-decoration: none;">
-          <img src="https://img.shields.io/badge/View-007ACC?style=flat&logo=github&logoColor=white" alt="View Project">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <table style="width: 100%; border-collapse: collapse; margin: 1.5rem 0;">
+    <thead>
+      <tr style="background-color: #f3f3f3;">
+        <th style="padding: 12px; text-align: left; width: 80px;">Logo</th>
+        <th style="padding: 12px; text-align: left;">Project</th>
+        <th style="padding: 12px; text-align: left;">Description</th>
+        <th style="padding: 12px; text-align: left;">Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- PhysApp Project -->
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 12px; vertical-align: middle;">
+          <img src="https://i.imgur.com/placeholder.png" width="60" style="border-radius: 8px;" alt="PhysApp Logo">
+        </td>
+        <td style="padding: 12px; vertical-align: middle;">
+          <strong>PhysApp</strong>
+        </td>
+        <td style="padding: 12px; vertical-align: middle;">
+          <p>📱 Mobile application in development</p>
+          <p>Aplicativo mobile em desenvolvimento</p>
+        </td>
+        <td style="padding: 12px; vertical-align: middle;">
+          <a href="#" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/View-007ACC?style=flat&logo=github&logoColor=white" alt="View Project">
+          </a>
+        </td>
+      </tr>
+      <!-- Portal Wakai Project -->
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 12px; vertical-align: middle;">
+          <img src="https://i.imgur.com/placeholder.png" width="60" style="border-radius: 8px;" alt="Wakai Logo">
+        </td>
+        <td style="padding: 12px; vertical-align: middle;">
+          <strong>Portal Wakai</strong>
+        </td>
+        <td style="padding: 12px; vertical-align: middle;">
+          <p>🌐 Community platform</p>
+          <p>Plataforma comunitária</p>
+        </td>
+        <td style="padding: 12px; vertical-align: middle;">
+          <a href="https://github.com/PortalWakai" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/View-007ACC?style=flat&logo=github&logoColor=white" alt="View Project">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
