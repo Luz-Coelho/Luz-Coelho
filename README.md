@@ -50,12 +50,21 @@
 
 <div align="center">
   <table>
+    <!-- Operational System -->
+    <tr>
+      <td valing="top" width="30%"><h3>💽 Operational System</h3></td>
+      <td align="left">
+        <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center;">
+          <img src="https://skillicons.dev/icons?i=arch,linux&perline=6" alt="Arch Icon">
+        </div>
+      </td>
+    </tr>
     <!-- Frontend Row -->
     <tr>
       <td valign="top" width="30%"><h3>🖥️ Frontend</h3></td>
       <td align="left">
         <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center;">
-          <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,tailwind,vite&perline=6" alt="Tech Icons">
+          <img src="https://skillicons.dev/icons?i=html,css,sass,less,bootstrap,tailwind,js,ts,coffeescript,react,vite&perline=6" alt="Tech Icons - Frontend">
         </div>
       </td>
     </tr>
@@ -64,7 +73,8 @@
       <td valign="top"><h3>⚙️ Backend</h3></td>
       <td align="left">
         <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center;">
-          <img src="https://skillicons.dev/icons?i=nodejs,cs,php,mysql&perline=6" alt="Tech Icons">
+          <img src="https://skillicons.dev/icons?i=nodejs,cs,cpp,php,mysql&perline=6" alt="Tech Icons - Backend">
+          <br>
           <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white"
                 alt="XAMPP"
                 title="XAMPP"
@@ -99,7 +109,7 @@
       <td valign="top"><h3>🔧 Tools</h3></td>
       <td align="left">
         <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center;">
-          <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,ps,notion&perline=6" alt="Tools">
+          <img src="https://skillicons.dev/icons?i=git,github,vscode,sublime,npm,yarn,bash,powershell,ps,notion,obsidian&perline=6" alt="Tools">
           <br>
           <img src="https://custom-icon-badges.demolab.com/badge/Canva-00C4CC?logo=canva&logoColor=white" 
                 alt="Canva" 
