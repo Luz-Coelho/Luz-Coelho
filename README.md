@@ -64,7 +64,7 @@
       <td valign="top" width="30%"><h3>🖥️ Frontend</h3></td>
       <td align="left">
         <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center;">
-          <img src="https://skillicons.dev/icons?i=html,css,sass,less,bootstrap,tailwind,js,ts,coffeescript,react,vite&perline=6" alt="Tech Icons - Frontend">
+          <img src="https://skillicons.dev/icons?i=html,css,sass,less,bootstrap,tailwind,materialui,js,ts,coffeescript,react,vite,md&perline=6" alt="Tech Icons - Frontend">
         </div>
       </td>
     </tr>
@@ -109,7 +109,7 @@
       <td valign="top"><h3>🔧 Tools</h3></td>
       <td align="left">
         <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center;">
-          <img src="https://skillicons.dev/icons?i=git,github,vscode,sublime,npm,yarn,bash,powershell,ps,notion,obsidian&perline=6" alt="Tools">
+          <img src="https://skillicons.dev/icons?i=git,github,vscode,sublime,npm,yarn,bash,powershell,ps,figma,notion,obsidian,arduino&perline=6" alt="Tools">
           <br>
           <img src="https://custom-icon-badges.demolab.com/badge/Canva-00C4CC?logo=canva&logoColor=white" 
                 alt="Canva" 
