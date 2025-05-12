@@ -109,7 +109,7 @@
       <td valign="top"><h3>🔧 Tools</h3></td>
       <td align="left">
         <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center;">
-          <img src="https://skillicons.dev/icons?i=git,github,vscode,sublime,npm,yarn,bash,powershell,ps,figma,notion,obsidian,arduino&perline=6" alt="Tools">
+          <img src="https://skillicons.dev/icons?i=git,github,vscode,sublime,npm,yarn,bash,ps,figma,notion,obsidian,arduino&perline=6" alt="Tools">
           <br>
           <img src="https://custom-icon-badges.demolab.com/badge/Canva-00C4CC?logo=canva&logoColor=white" 
                 alt="Canva" 
