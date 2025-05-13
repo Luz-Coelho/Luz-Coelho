@@ -35,7 +35,7 @@ style="width: 48px; height: 48px;">
 **📱 Mobile**  
 ![React Native Expo](https://skillicons.dev/icons?i=react)
 <img
-src="./icons/expo-icon.min.svg"
+src="./icons/expo-icon.svg"
 alt="Expo"
 style="width: auto; height: 48px;">
 
