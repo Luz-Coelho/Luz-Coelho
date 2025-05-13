@@ -13,17 +13,23 @@
 
 **💽 OS & Tools**  
 ![Linux Arch](https://skillicons.dev/icons?i=linux,arch,bash,npm,yarn)
-<img
-src="./icons/android-vertical.svg" 
-alt="Android"
-style="width: auto; height: 38px; border-radius: 10px; background: #242938; padding: 6px">
+<div style="background: #242938; border-radius: 10px; display: inline-block; padding: 6px">
+  <img
+    src="./icons/android-vertical.svg"
+    alt="Android"
+    style="width: auto; height: 38px;"
+  >
+</div>
 
 **🖥️ Frontend**  
 ![HTML CSS JavaScript](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,tailwind,mui,vite,markdown)
-<img
-src="./icons/font-awesome.svg" 
-alt="Font Awesome"
-style="width: 38px; height: 38px; border-radius: 10px; background: #3699F0; padding: 5px">
+<div style="background: #3699F0; border-radius: 10px; display: inline-block; padding: 5px">
+  <img
+    src="./icons/font-awesome.svg"
+    alt="Font Awesome"
+    style="width: 38px; height: 38px;"
+  >
+</div>
 
 **⚙️ Backend**  
 ![Node.js PHP Databases](https://skillicons.dev/icons?i=nodejs,php,mysql,cs,cpp)
@@ -34,10 +40,13 @@ style="width: 48px; height: 48px; border-radius: 10px">
 
 **📱 Mobile**  
 ![React Native Expo](https://skillicons.dev/icons?i=react)
-<img
-src="./icons/expo-icon.svg"
-alt="Expo"
-style="width: auto; height: 38px; border-radius: 10px; background: #000020; padding: 5px">
+<div style="background: #000020; border-radius: 10px; display: inline-block; padding: 5px">
+  <img
+    src="./icons/expo-icon.svg"
+    alt="Expo"
+    style="height: 38px; width: auto;"
+  >
+</div>
 
 **🔧 Development Tools**  
 ![Git VS Code](https://skillicons.dev/icons?i=git,github,vscode,figma,ps,obsidian,arduino)
