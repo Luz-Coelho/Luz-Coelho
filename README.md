@@ -13,47 +13,38 @@
 
 **💽 OS & Tools**  
 ![Linux Arch](https://skillicons.dev/icons?i=linux,arch,bash,npm,yarn)
-<div style="background: #242938; border-radius: 10px; display: inline-block; padding: 6px">
-  <img
-    src="./icons/android-vertical.svg"
-    alt="Android"
-    style="width: auto; height: 38px;"
-  >
-</div>
+<img
+src="./icons/android-vertical.svg" 
+alt="Android"
+style="width: auto; height: 46px;">
 
 **🖥️ Frontend**  
 ![HTML CSS JavaScript](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,tailwind,mui,vite,markdown)
-<div style="background: #3699F0; border-radius: 10px; display: inline-block; padding: 5px">
-  <img
-    src="./icons/font-awesome.svg"
-    alt="Font Awesome"
-    style="width: 38px; height: 38px;"
-  >
-</div>
+<img
+src="./icons/font-awesome.svg" 
+alt="Font Awesome"
+style="width: auto; height: 46px;">
 
 **⚙️ Backend**  
 ![Node.js PHP Databases](https://skillicons.dev/icons?i=nodejs,php,mysql,cs,cpp)
 <img
 src="./icons/xampp.svg" 
 alt="XAMPP"
-style="width: 48px; height: 48px; border-radius: 10px">
+style="width: 48px; height: 48px;">
 
 **📱 Mobile**  
 ![React Native Expo](https://skillicons.dev/icons?i=react)
-<div style="background: #000020; border-radius: 10px; display: inline-block; padding: 5px">
-  <img
-    src="./icons/expo-icon.svg"
-    alt="Expo"
-    style="height: 38px; width: auto;"
-  >
-</div>
+<img
+src="./icons/expo-icon.min.svg"
+alt="Expo"
+style="width: auto; height: 48px;">
 
 **🔧 Development Tools**  
 ![Git VS Code](https://skillicons.dev/icons?i=git,github,vscode,figma,ps,obsidian,arduino)
 <img
 src="./icons/trello.svg" 
 alt="Trello"
-style="width: 48px; height: 48px; border-radius: 10px">
+style="width: 48px; height: 48px;">
 
 ---
 
@@ -75,6 +66,7 @@ style="width: 48px; height: 48px; border-radius: 10px">
           href="https://github.com/PhysAppDev"
           style="display: flex; flex-direction: column; justify-content: center; align-items: center; cursor: pointer;">
             <img src="https://i.imgur.com/Fh5ZIKG.png" width="60" style="border-radius: 8px;" alt="PhysApp Logo">
+            <br>
             <strong>PhysApp</strong>
           </a>
         </td>
@@ -90,6 +82,7 @@ style="width: 48px; height: 48px; border-radius: 10px">
           href="https://github.com/PortalWakai"
           style="display: flex; flex-direction: column; justify-content: center; align-items: center; cursor: pointer;">
             <img src="https://i.imgur.com/FHi9m5F.png" width="60" style="border-radius: 8px;" alt="Wakai Logo">
+            <br>
             <strong>Portal Wakai</strong>
           </a>
         </td>
@@ -107,7 +100,7 @@ style="width: 48px; height: 48px; border-radius: 10px">
 ---
 
 ## 📊 GitHub Stats  
-<div style="display: flex; justify-content: space-evenly">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luz-Coelho&show_icons=true&theme=radical"
   height="180px"
   width="450px"
@@ -121,17 +114,9 @@ style="width: 48px; height: 48px; border-radius: 10px">
 ---
 
 <div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; width: 40rem">
-    <ul style="list-style-type: none; margin: 0; padding: 0">
-      <li style="text-align: right"><a href="#top">[ ⬆️ Back to Top</a></li>
-      <li style="text-align: right">🌟 <strong>Thanks for visiting!</strong></li>
-    </ul>
-    <span style="margin: 0 0.5rem; font-size: 3rem; font-weight: 200">|</span>
-    <ul style="list-style-type: none; margin: 0; padding: 0">
-      <li style="text-align: left"><a href="#top">Voltar ao Topo ⬆️ ]</a></li>
-      <li style="text-align: left"><strong>Obrigada pela visita!</strong> 🌟</li>
-    </ul>
-  </div>
+  <a href="#top">[ ⬆️ Back to Top | Voltar ao Topo ⬆️ ]</a>
+  <br>
+  🌟 <strong>Thanks for visiting! | Obrigada pela visita!</strong> 🌟
 </div>
 
 ---
