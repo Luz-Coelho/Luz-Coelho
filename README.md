@@ -1,129 +1,50 @@
----
 <a id="top"></a>
-<div align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgfxmaker.com%2Fwp-content%2Fuploads%2F2021%2F12%2F936-1.jpeg&f=1&nofb=1&ipt=a7cff55bd79d022b787cc7db3b5e3804f1849574930c46fc1387b3c55de7e664"
-    alt="graphic design is my passion."
-    height="300px"
-    width="100%">
-</div>
+# 🐱 Luz Siolari de Lima Coelho
 
----
+## 💻 About Me
+- 🏳️‍⚧️ Pronouns: She/Her
+- 📧 Contact: luzsiolaricoelho@outlook.com
+- 🎓 Systems Development student @ Etec Peruíbe
+- 🌎 Advanced English (Wizard)
+- 🔭 Passionate about web development and open source
 
-## 🌐 README
 
-<div align="center">
-  <table style="margin: 0 auto;">
-    <tr>
-      <td valign="top" width="50%">
-        <h2>🇧🇷 Português</h2>
-        <h3 align="left">👋 Sobre Mim</h3>
-        <p align="left"><strong>✨ Luz Siolari de Lima Coelho</strong></p>
-        <ul align="left">
-          <li><p align="left">🏳️‍⚧️ Pronomes: Ela/Dela</p></li>
-          <li><p align="left">📧 Contato: luzsiolaricoelho@outlook.com</p></li>
-          <li><p align="left">🎓 Estudante de Desenvolvimento de Sistemas (Etec Peruíbe)</p></li>
-          <li><p align="left">🌎 Inglês avançado (Wizard)</p></li>
-        </ul>
-        <p align="left">💻 Apaixonada por desenvolvimento web e tecnologia<br>
-        🚀 Buscando constantemente novos desafios e aprendizados</p>
-      </td>
-      <td valign="top" width="50%">
-        <h2>🇺🇸 English</h2>
-        <h3 align="left">👋 About Me</h3>
-        <p align="left"><strong>✨ Luz Siolari de Lima Coelho</strong></p>
-        <ul align="left">
-          <li><p align="left">🏳️‍⚧️ Pronouns: She/Her</p></li>
-          <li><p align="left">📧 Contact: luzsiolaricoelho@outlook.com</p></li>
-          <li><p align="left">🎓 Systems Development student (Etec Peruíbe)</p></li>
-          <li><p align="left">🌎 Advanced English (Wizard)</p></li>
-        </ul>
-        <p align="left">💻 Passionate about web development and technology<br>
-        🚀 Constantly seeking new challenges and knowledge</p>
-      </td>
-    </tr>
-  </table>
-</div>
+## 🛠️ Tech Stack
 
----
+**💽 OS & Tools**  
+![Linux Arch](https://skillicons.dev/icons?i=linux,arch,bash,npm,yarn)
+<img
+src="./icons/android-vertical.svg" 
+alt="Android"
+style="width: auto; height: 38px; border-radius: 10px; background: #242938; padding: 6px">
 
-## 🛠️ Tech Stack  
+**🖥️ Frontend**  
+![HTML CSS JavaScript](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,tailwind,mui,vite,markdown)
+<img
+src="./icons/font-awesome.svg" 
+alt="Font Awesome"
+style="width: 38px; height: 38px; border-radius: 10px; background: #3699F0; padding: 5px">
 
-<div align="center">
-  <table>
-    <!-- Operational System -->
-    <tr>
-      <td valing="top" width="30%"><h3>💽 Operational System</h3></td>
-      <td align="left">
-        <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center;">
-          <img src="https://skillicons.dev/icons?i=arch,linux&perline=6" alt="Arch Icon">
-        </div>
-      </td>
-    </tr>
-    <!-- Frontend Row -->
-    <tr>
-      <td valign="top" width="30%"><h3>🖥️ Frontend</h3></td>
-      <td align="left">
-        <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center;">
-          <img src="https://skillicons.dev/icons?i=html,css,sass,less,bootstrap,tailwind,materialui,js,ts,coffeescript,react,vite,md&perline=6" alt="Tech Icons - Frontend">
-        </div>
-      </td>
-    </tr>
-    <!-- Backend Row -->
-    <tr>
-      <td valign="top"><h3>⚙️ Backend</h3></td>
-      <td align="left">
-        <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center;">
-          <img src="https://skillicons.dev/icons?i=nodejs,cs,cpp,php,mysql&perline=6" alt="Tech Icons - Backend">
-          <br>
-          <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white"
-                alt="XAMPP"
-                title="XAMPP"
-                height="30px">
-        </div>
-      </td>
-    </tr>
-    <!-- Mobile Row -->
-    <tr>
-      <td valign="top"><h3>📱 Mobile</h3></td>
-      <td align="left">
-        <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center;">
-          <img src="https://custom-icon-badges.demolab.com/badge/React_Native-61DAFB?logo=react&logoColor=black" 
-                 alt="React Native" 
-                 title="React Native"
-                 height="30px">
-            <!-- Expo -->
-            <img src="https://custom-icon-badges.demolab.com/badge/Expo-000020?logo=expo&logoColor=white" 
-                 alt="Expo" 
-                 title="Expo"
-                 height="30px">
-            <!-- Monaca -->
-            <img src="https://custom-icon-badges.demolab.com/badge/Monaca-007ACC?logo=ionic&logoColor=white" 
-                 alt="Monaca" 
-                 title="Monaca"
-                 height="30px">
-        </div>
-      </td>
-    </tr>
-    <!-- Tools Row -->
-    <tr>
-      <td valign="top"><h3>🔧 Tools</h3></td>
-      <td align="left">
-        <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center;">
-          <img src="https://skillicons.dev/icons?i=git,github,vscode,sublime,npm,yarn,bash,ps,figma,notion,obsidian,arduino&perline=6" alt="Tools">
-          <br>
-          <img src="https://custom-icon-badges.demolab.com/badge/Canva-00C4CC?logo=canva&logoColor=white" 
-                alt="Canva" 
-                title="Canva"
-                height="30px">
-          <img src="https://custom-icon-badges.demolab.com/badge/Trello-026AA7?logo=trello&logoColor=white" 
-                alt="Trello" 
-                title="Trello"
-                height="30px">
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+**⚙️ Backend**  
+![Node.js PHP Databases](https://skillicons.dev/icons?i=nodejs,php,mysql,cs,cpp)
+<img
+src="./icons/xampp.svg" 
+alt="XAMPP"
+style="width: 48px; height: 48px; border-radius: 10px">
+
+**📱 Mobile**  
+![React Native Expo](https://skillicons.dev/icons?i=react)
+<img
+src="./icons/expo-icon.svg"
+alt="Expo"
+style="width: auto; height: 38px; border-radius: 10px; background: #000020; padding: 5px">
+
+**🔧 Development Tools**  
+![Git VS Code](https://skillicons.dev/icons?i=git,github,vscode,figma,ps,obsidian,arduino)
+<img
+src="./icons/trello.svg" 
+alt="Trello"
+style="width: 48px; height: 48px; border-radius: 10px">
 
 ---
 
@@ -132,50 +53,42 @@
 <div align="center">
   <table style="width: 100%; border-collapse: collapse; margin: 1.5rem 0;">
     <thead>
-      <tr style="background-color: #f3f3f3;">
-        <th style="padding: 12px; text-align: left; width: 80px;">Logo</th>
+      <tr>
         <th style="padding: 12px; text-align: left;">Project</th>
         <th style="padding: 12px; text-align: left;">Description</th>
-        <th style="padding: 12px; text-align: left;">Link</th>
       </tr>
     </thead>
     <tbody>
       <!-- PhysApp Project -->
       <tr style="border-bottom: 1px solid #ddd;">
-        <td style="padding: 12px; vertical-align: middle;">
-          <img src="https://i.imgur.com/Fh5ZIKG.png" width="60" style="border-radius: 8px;" alt="PhysApp Logo">
-        </td>
-        <td style="padding: 12px; vertical-align: middle;">
-          <strong>PhysApp</strong>
-        </td>
-        <td style="padding: 12px; vertical-align: middle;">
-          <p align="left">🇺🇸 Mobile application in development</p>
-          <p align="left">🇧🇷 Aplicativo mobile em desenvolvimento</p>
-        </td>
-        <td style="padding: 12px; vertical-align: middle;">
-          <a href="#" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/View-007ACC?style=flat&logo=github&logoColor=white" alt="View Project">
+        <td>
+          <a
+          href="https://github.com/PhysAppDev"
+          style="display: flex; flex-direction: column; justify-content: center; align-items: center; cursor: pointer;">
+            <img src="https://i.imgur.com/Fh5ZIKG.png" width="60" style="border-radius: 8px;" alt="PhysApp Logo">
+            <strong>PhysApp</strong>
           </a>
+        </td>
+        <td style="padding: 12px; vertical-align: middle;">
+          <p align="left">🇺🇸 A mobile physics calculus resolver app.</p>
+          <p align="left">🇧🇷 Um aplicativo mobile resolvedor de cálculos de física.</p>
         </td>
       </tr>
       <!-- Portal Wakai Project -->
       <tr style="border-bottom: 1px solid #ddd;">
-        <td style="padding: 12px; vertical-align: middle;">
-          <img src="https://i.imgur.com/FHi9m5F.png" width="60" style="border-radius: 8px;" alt="Wakai Logo">
-        </td>
-        <td style="padding: 12px; vertical-align: middle;">
-          <strong>Portal Wakai</strong>
-        </td>
-        <td style="padding: 12px; vertical-align: middle;">
-          <p align="left">🇺🇸 Project developed within a three days time-period for the Hackathon 2025 of Etec Peruibe.
-            The theme was to develop a reading platform to make young readers engage into nacional and independent books.</p>
-          <p align="left">🇧🇷 Projeto desenvolvido no período de 3 dias para o Hackathon 2025 da Etec de Peruibe.
-            O tema era desenvolver uma plataforma de leitura para incentivar jovens leitores a lerem livros nacionais e independentes.</p>
-        </td>
-        <td style="padding: 12px; vertical-align: middle;">
-          <a href="https://github.com/PortalWakai" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/View-007ACC?style=flat&logo=github&logoColor=white" alt="View Project">
+        <td>
+          <a
+          href="https://github.com/PortalWakai"
+          style="display: flex; flex-direction: column; justify-content: center; align-items: center; cursor: pointer;">
+            <img src="https://i.imgur.com/FHi9m5F.png" width="60" style="border-radius: 8px;" alt="Wakai Logo">
+            <strong>Portal Wakai</strong>
           </a>
+        </td>
+        <td style="padding: 12px; vertical-align: middle;">
+          <p align="left">🇺🇸 Project developed within a three days time-period for the Hackathon 2025 of Etec Peruíbe.
+          </p>
+          <p align="left">🇧🇷 Projeto desenvolvido no período de 3 dias para o Hackathon 2025 da Etec de Peruíbe.
+          </p>
         </td>
       </tr>
     </tbody>
@@ -185,16 +98,31 @@
 ---
 
 ## 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luz-Coelho&show_icons=true&theme=radical" height="170px" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luz-Coelho&layout=compact&theme=radical" height="170px" alt="Top Languages">
+<div style="display: flex; justify-content: space-evenly">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luz-Coelho&show_icons=true&theme=radical"
+  height="180px"
+  width="450px"
+  alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luz-Coelho&layout=compact&theme=radical"
+  height="180px"
+  width="450px"
+  alt="Top Languages">
 </div>
 
 ---
 
 <div align="center">
-  <a href="#top">[ ⬆️ Back to Top | Voltar ao Topo ⬆️ ]</a>
-  <p>🌟 <strong>Thanks for visiting!</strong> | <strong>Obrigada pela visita!</strong> 🌟</p>
+  <div style="display: flex; justify-content: center; align-items: center; width: 40rem">
+    <ul style="list-style-type: none; margin: 0; padding: 0">
+      <li style="text-align: right"><a href="#top">[ ⬆️ Back to Top</a></li>
+      <li style="text-align: right">🌟 <strong>Thanks for visiting!</strong></li>
+    </ul>
+    <span style="margin: 0 0.5rem; font-size: 3rem; font-weight: 200">|</span>
+    <ul style="list-style-type: none; margin: 0; padding: 0">
+      <li style="text-align: left"><a href="#top">Voltar ao Topo ⬆️ ]</a></li>
+      <li style="text-align: left"><strong>Obrigada pela visita!</strong> 🌟</li>
+    </ul>
+  </div>
 </div>
 
 ---
