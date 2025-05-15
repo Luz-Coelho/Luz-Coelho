@@ -4,7 +4,7 @@
 ## 💻 About Me
 - 🏳️‍⚧️ Pronouns: She/Her
 - 📧 Contact: luzsiolaricoelho@outlook.com
-- 🎓 Systems Development student @ Etec Peruíbe
+- 🎓 Systems Development student @ Etec de Peruíbe
 - 🌎 Advanced English (Wizard)
 - 🔭 Passionate about web development and open source
 
@@ -19,7 +19,7 @@ alt="Android"
 style="width: auto; height: 46px;">
 
 **🖥️ Frontend**  
-![HTML CSS JavaScript](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,tailwind,mui,vite,markdown)
+![HTML CSS JavaScript](https://skillicons.dev/icons?i=html,css,sass,js,coffeescript,ts,react,tailwind,mui,vite,markdown)
 <img
 src="./icons/font-awesome.svg" 
 alt="Font Awesome"
