@@ -13,21 +13,31 @@
 
 **🖥️ Operating Systems & Tools**  
 ![Linux Arch](https://skillicons.dev/icons?i=linux,arch,bash)
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" width="48" alt="Android">                    
+          
 **🌐 Frontend**  
-![HTML CSS SASS JavaScript TypeScript React Tailwind MUI Vite Tauri](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,tailwind,mui,vite,tauri)  
+![HTML CSS SASS JavaScript TypeScript React Tailwind MUI Vite Tauri](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,tailwind,mui,vite,tauri)
+<img src="https://cdn.simpleicons.org/fontawesome/528DD7" width="46" alt="Font Awesome"> <img src="https://cdn.simpleicons.org/googlefonts/4285F4" width="50" alt="Google Fonts">
 
 **⚙️ Backend & Databases**  
-![Node.js PHP MySQL C# C++ Rust](https://skillicons.dev/icons?i=nodejs,php,mysql,cs,cpp,rust)  
+![Node.js PHP MySQL C# C++ Rust](https://skillicons.dev/icons?i=nodejs,php,mysql,cs,cpp,rust)
+<img src="https://cdn.simpleicons.org/xampp/FB7A24" width="48" alt="XAMPP">
 
 **📱 Mobile**  
-![React Native Android Studio Gradle](https://skillicons.dev/icons?i=react,androidstudio,gradle)  
+![React Native Android Studio Gradle Flutter](https://skillicons.dev/icons?i=react,androidstudio,gradle,flutter)
+<img src="https://cdn.simpleicons.org/expo/000020" width="44" alt="Expo">
+<img src="https://cdn.simpleicons.org/capacitor/119EFF" width="44" alt="Capacitor">
+<img src="https://cdn.simpleicons.org/createreactapp/09D3AC" width="44" alt="Create React App">
 
 **🛠️ Development Tools**  
-![Git GitHub VSCode Figma Photoshop Obsidian Arduino](https://skillicons.dev/icons?i=git,github,vscode,figma,ps,obsidian,arduino)  
-
+![Git GitHub VSCode Figma Photoshop Obsidian Arduino](https://skillicons.dev/icons?i=git,github,vscode,figma,ps,obsidian,arduino)
+<img src="https://cdn.simpleicons.org/tinkercad/1477D1" width="48" alt="Tinkercad">
+<img src="https://cdn.simpleicons.org/trello/0052CC" width="48" alt="Trello">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="48" alt="Canvas">
+          
 **🔧 Build & Package Tools**  
 ![NPM Yarn Babel](https://skillicons.dev/icons?i=npm,yarn,babel)
+<img src="https://cdn.simpleicons.org/swc/F8C457" width="44" alt="SWC">
 
 ---
 
