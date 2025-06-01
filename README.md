@@ -11,40 +11,23 @@
 
 ## 🛠️ Tech Stack
 
-**💽 OS & Tools**  
-![Linux Arch](https://skillicons.dev/icons?i=linux,arch,bash,npm,yarn)
-<img
-src="./icons/android-vertical.svg" 
-alt="Android"
-style="width: auto; height: 46px;">
+**🖥️ Operating Systems & Tools**  
+![Linux Arch](https://skillicons.dev/icons?i=linux,arch,bash)
 
-**🖥️ Frontend**  
-![HTML CSS JavaScript](https://skillicons.dev/icons?i=html,css,sass,js,coffeescript,ts,react,tailwind,mui,vite,markdown)
-<img
-src="./icons/font-awesome.svg" 
-alt="Font Awesome"
-style="width: auto; height: 46px;">
+**🌐 Frontend**  
+![HTML CSS SASS JavaScript TypeScript React Tailwind MUI Vite Tauri](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,tailwind,mui,vite,tauri)  
 
-**⚙️ Backend**  
-![Node.js PHP Databases](https://skillicons.dev/icons?i=nodejs,php,mysql,cs,cpp)
-<img
-src="./icons/xampp.svg" 
-alt="XAMPP"
-style="width: 48px; height: 48px;">
+**⚙️ Backend & Databases**  
+![Node.js PHP MySQL C# C++ Rust](https://skillicons.dev/icons?i=nodejs,php,mysql,cs,cpp,rust)  
 
 **📱 Mobile**  
-![React Native Expo](https://skillicons.dev/icons?i=react)
-<img
-src="./icons/expo-icon.svg"
-alt="Expo"
-style="width: auto; height: 48px;">
+![React Native Android Studio Gradle](https://skillicons.dev/icons?i=react,androidstudio,gradle)  
 
-**🔧 Development Tools**  
-![Git VS Code](https://skillicons.dev/icons?i=git,github,vscode,figma,ps,obsidian,arduino)
-<img
-src="./icons/trello.svg" 
-alt="Trello"
-style="width: 48px; height: 48px;">
+**🛠️ Development Tools**  
+![Git GitHub VSCode Figma Photoshop Obsidian Arduino](https://skillicons.dev/icons?i=git,github,vscode,figma,ps,obsidian,arduino)  
+
+**🔧 Build & Package Tools**  
+![NPM Yarn Babel](https://skillicons.dev/icons?i=npm,yarn,babel)
 
 ---
 
